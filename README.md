@@ -20,8 +20,8 @@ high-velocity, cross-channel patterns.
 │ App Logs │ │ Web Logs │ │ ATM Logs │ │ UPI Logs │
 └──────┬───── ┘ └──────┬──────┘ └──────┬──────┘ └──────┬──────┘
 │ │ │ │
-└────────────────┴──…
-[11:55 pm, 01/03/2026] Himanshu Bafna Vit: # 🔎 Cross-Channel "Mule Account" Detection Graph
+└────────────────┴──… 
+# 🔎 Cross-Channel "Mule Account" Detection Graph
 
 > *GNN-powered real-time transaction monitoring* that fuses App, Web, ATM &
 > UPI log streams into a unified Entity Graph to detect and block money-mule
